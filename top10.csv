@@ -1,0 +1,538 @@
+rep_airp.time,periodo,fecha,mes,year,date,pais,totalVuelos,Aeropuerto
+UK_EGKK,2019M01,1/1/2019,1,2019,1/1/2019,Reino Unido,1890,Aeropuerto de Londres Gatwic
+UK_EGKK,2019M01,1/1/2019,1,2019,1/1/2019,Reino Unido,17629,Aeropuerto de Londres Gatwic
+UK_EGKK,2019M01,1/1/2019,1,2019,1/1/2019,Reino Unido,19602,Aeropuerto de Londres Gatwic
+UK_EGKK,2019M02,1/2/2019,2,2019,1/2/2019,Reino Unido,1784,Aeropuerto de Londres Gatwic
+UK_EGKK,2019M02,1/2/2019,2,2019,1/2/2019,Reino Unido,17875,Aeropuerto de Londres Gatwic
+UK_EGKK,2019M02,1/2/2019,2,2019,1/2/2019,Reino Unido,19777,Aeropuerto de Londres Gatwic
+UK_EGKK,2019M03,1/3/2019,3,2019,1/3/2019,Reino Unido,1990,Aeropuerto de Londres Gatwic
+UK_EGKK,2019M03,1/3/2019,3,2019,1/3/2019,Reino Unido,20392,Aeropuerto de Londres Gatwic
+UK_EGKK,2019M03,1/3/2019,3,2019,1/3/2019,Reino Unido,22453,Aeropuerto de Londres Gatwic
+UK_EGKK,2019M04,1/4/2019,4,2019,1/4/2019,Reino Unido,1969,Aeropuerto de Londres Gatwic
+UK_EGKK,2019M04,1/4/2019,4,2019,1/4/2019,Reino Unido,21756,Aeropuerto de Londres Gatwic
+UK_EGKK,2019M04,1/4/2019,4,2019,1/4/2019,Reino Unido,23828,Aeropuerto de Londres Gatwic
+UK_EGKK,2019M05,1/5/2019,5,2019,1/5/2019,Reino Unido,2053,Aeropuerto de Londres Gatwic
+UK_EGKK,2019M05,1/5/2019,5,2019,1/5/2019,Reino Unido,23796,Aeropuerto de Londres Gatwic
+UK_EGKK,2019M05,1/5/2019,5,2019,1/5/2019,Reino Unido,25925,Aeropuerto de Londres Gatwic
+UK_EGKK,2019M06,1/6/2019,6,2019,1/6/2019,Reino Unido,2236,Aeropuerto de Londres Gatwic
+UK_EGKK,2019M06,1/6/2019,6,2019,1/6/2019,Reino Unido,24206,Aeropuerto de Londres Gatwic
+UK_EGKK,2019M06,1/6/2019,6,2019,1/6/2019,Reino Unido,26516,Aeropuerto de Londres Gatwic
+UK_EGKK,2019M07,1/7/2019,7,2019,1/7/2019,Reino Unido,2464,Aeropuerto de Londres Gatwic
+UK_EGKK,2019M07,1/7/2019,7,2019,1/7/2019,Reino Unido,25311,Aeropuerto de Londres Gatwic
+UK_EGKK,2019M07,1/7/2019,7,2019,1/7/2019,Reino Unido,27834,Aeropuerto de Londres Gatwic
+UK_EGKK,2019M08,1/8/2019,8,2019,1/8/2019,Reino Unido,2458,Aeropuerto de Londres Gatwic
+UK_EGKK,2019M08,1/8/2019,8,2019,1/8/2019,Reino Unido,25700,Aeropuerto de Londres Gatwic
+UK_EGKK,2019M08,1/8/2019,8,2019,1/8/2019,Reino Unido,28224,Aeropuerto de Londres Gatwic
+UK_EGKK,2019M09,1/9/2019,9,2019,1/9/2019,Reino Unido,2287,Aeropuerto de Londres Gatwic
+UK_EGKK,2019M09,1/9/2019,9,2019,1/9/2019,Reino Unido,23761,Aeropuerto de Londres Gatwic
+UK_EGKK,2019M09,1/9/2019,9,2019,1/9/2019,Reino Unido,26081,Aeropuerto de Londres Gatwic
+UK_EGKK,2020M01,1/1/2020,1,2020,1/1/2020,Reino Unido,1965,Aeropuerto de Londres Gatwic
+UK_EGKK,2020M01,1/1/2020,1,2020,1/1/2020,Reino Unido,16512,Aeropuerto de Londres Gatwic
+UK_EGKK,2020M01,1/1/2020,1,2020,1/1/2020,Reino Unido,18569,Aeropuerto de Londres Gatwic
+UK_EGKK,2020M02,1/2/2020,2,2020,1/2/2020,Reino Unido,3983,Aeropuerto de Londres Gatwic
+UK_EGKK,2020M02,1/2/2020,2,2020,1/2/2020,Reino Unido,15243,Aeropuerto de Londres Gatwic
+UK_EGKK,2020M02,1/2/2020,2,2020,1/2/2020,Reino Unido,19287,Aeropuerto de Londres Gatwic
+UK_EGKK,2020M03,1/3/2020,3,2020,1/3/2020,Reino Unido,3124,Aeropuerto de Londres Gatwic
+UK_EGKK,2020M03,1/3/2020,3,2020,1/3/2020,Reino Unido,12031,Aeropuerto de Londres Gatwic
+UK_EGKK,2020M03,1/3/2020,3,2020,1/3/2020,Reino Unido,15220,Aeropuerto de Londres Gatwic
+UK_EGKK,2020M04,1/4/2020,4,2020,1/4/2020,Reino Unido,75,Aeropuerto de Londres Gatwic
+UK_EGKK,2020M04,1/4/2020,4,2020,1/4/2020,Reino Unido,119,Aeropuerto de Londres Gatwic
+UK_EGKK,2020M04,1/4/2020,4,2020,1/4/2020,Reino Unido,225,Aeropuerto de Londres Gatwic
+UK_EGKK,2020M05,1/5/2020,5,2020,1/5/2020,Reino Unido,53,Aeropuerto de Londres Gatwic
+UK_EGKK,2020M05,1/5/2020,5,2020,1/5/2020,Reino Unido,73,Aeropuerto de Londres Gatwic
+UK_EGKK,2020M05,1/5/2020,5,2020,1/5/2020,Reino Unido,180,Aeropuerto de Londres Gatwic
+UK_EGKK,2020M06,1/6/2020,6,2020,1/6/2020,Reino Unido,164,Aeropuerto de Londres Gatwic
+UK_EGKK,2020M06,1/6/2020,6,2020,1/6/2020,Reino Unido,219,Aeropuerto de Londres Gatwic
+UK_EGKK,2020M06,1/6/2020,6,2020,1/6/2020,Reino Unido,473,Aeropuerto de Londres Gatwic
+UK_EGKK,2020M07,1/7/2020,7,2020,1/7/2020,Reino Unido,829,Aeropuerto de Londres Gatwic
+UK_EGKK,2020M07,1/7/2020,7,2020,1/7/2020,Reino Unido,2053,Aeropuerto de Londres Gatwic
+UK_EGKK,2020M07,1/7/2020,7,2020,1/7/2020,Reino Unido,2988,Aeropuerto de Londres Gatwic
+UK_EGKK,2020M08,1/8/2020,8,2020,1/8/2020,Reino Unido,1066,Aeropuerto de Londres Gatwic
+UK_EGKK,2020M08,1/8/2020,8,2020,1/8/2020,Reino Unido,6850,Aeropuerto de Londres Gatwic
+UK_EGKK,2020M08,1/8/2020,8,2020,1/8/2020,Reino Unido,8029,Aeropuerto de Londres Gatwic
+UK_EGKK,2020M09,1/9/2020,9,2020,1/9/2020,Reino Unido,871,Aeropuerto de Londres Gatwic
+UK_EGKK,2020M09,1/9/2020,9,2020,1/9/2020,Reino Unido,6415,Aeropuerto de Londres Gatwic
+UK_EGKK,2020M09,1/9/2020,9,2020,1/9/2020,Reino Unido,7457,Aeropuerto de Londres Gatwic
+UK_EGLL,2019M01,1/1/2019,1,2019,1/1/2019,Reino Unido,9823,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2019M01,1/1/2019,1,2019,1/1/2019,Reino Unido,28236,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2019M01,1/1/2019,1,2019,1/1/2019,Reino Unido,38148,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2019M02,1/2/2019,2,2019,1/2/2019,Reino Unido,8804,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2019M02,1/2/2019,2,2019,1/2/2019,Reino Unido,26684,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2019M02,1/2/2019,2,2019,1/2/2019,Reino Unido,35554,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2019M03,1/3/2019,3,2019,1/3/2019,Reino Unido,9891,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2019M03,1/3/2019,3,2019,1/3/2019,Reino Unido,30178,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2019M03,1/3/2019,3,2019,1/3/2019,Reino Unido,40126,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2019M04,1/4/2019,4,2019,1/4/2019,Reino Unido,9677,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2019M04,1/4/2019,4,2019,1/4/2019,Reino Unido,30738,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2019M04,1/4/2019,4,2019,1/4/2019,Reino Unido,40514,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2019M05,1/5/2019,5,2019,1/5/2019,Reino Unido,9878,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2019M05,1/5/2019,5,2019,1/5/2019,Reino Unido,31933,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2019M05,1/5/2019,5,2019,1/5/2019,Reino Unido,41862,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2019M06,1/6/2019,6,2019,1/6/2019,Reino Unido,10003,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2019M06,1/6/2019,6,2019,1/6/2019,Reino Unido,31069,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2019M06,1/6/2019,6,2019,1/6/2019,Reino Unido,41158,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2019M07,1/7/2019,7,2019,1/7/2019,Reino Unido,10452,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2019M07,1/7/2019,7,2019,1/7/2019,Reino Unido,32147,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2019M07,1/7/2019,7,2019,1/7/2019,Reino Unido,42669,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2019M08,1/8/2019,8,2019,1/8/2019,Reino Unido,10489,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2019M08,1/8/2019,8,2019,1/8/2019,Reino Unido,31963,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2019M08,1/8/2019,8,2019,1/8/2019,Reino Unido,42528,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2019M09,1/9/2019,9,2019,1/9/2019,Reino Unido,10026,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2019M09,1/9/2019,9,2019,1/9/2019,Reino Unido,29405,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2019M09,1/9/2019,9,2019,1/9/2019,Reino Unido,39507,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2020M01,1/1/2020,1,2020,1/1/2020,Reino Unido,9676,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2020M01,1/1/2020,1,2020,1/1/2020,Reino Unido,28432,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2020M01,1/1/2020,1,2020,1/1/2020,Reino Unido,38177,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2020M02,1/2/2020,2,2020,1/2/2020,Reino Unido,7328,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2020M02,1/2/2020,2,2020,1/2/2020,Reino Unido,29214,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2020M02,1/2/2020,2,2020,1/2/2020,Reino Unido,36615,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2020M03,1/3/2020,3,2020,1/3/2020,Reino Unido,5646,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2020M03,1/3/2020,3,2020,1/3/2020,Reino Unido,22128,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2020M03,1/3/2020,3,2020,1/3/2020,Reino Unido,27861,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2020M04,1/4/2020,4,2020,1/4/2020,Reino Unido,1224,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2020M04,1/4/2020,4,2020,1/4/2020,Reino Unido,4011,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2020M04,1/4/2020,4,2020,1/4/2020,Reino Unido,5272,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2020M05,1/5/2020,5,2020,1/5/2020,Reino Unido,1249,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2020M05,1/5/2020,5,2020,1/5/2020,Reino Unido,5449,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2020M05,1/5/2020,5,2020,1/5/2020,Reino Unido,6744,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2020M06,1/6/2020,6,2020,1/6/2020,Reino Unido,1543,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2020M06,1/6/2020,6,2020,1/6/2020,Reino Unido,5848,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2020M06,1/6/2020,6,2020,1/6/2020,Reino Unido,7449,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2020M07,1/7/2020,7,2020,1/7/2020,Reino Unido,2637,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2020M07,1/7/2020,7,2020,1/7/2020,Reino Unido,9509,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2020M07,1/7/2020,7,2020,1/7/2020,Reino Unido,12198,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2020M08,1/8/2020,8,2020,1/8/2020,Reino Unido,3292,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2020M08,1/8/2020,8,2020,1/8/2020,Reino Unido,12131,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2020M08,1/8/2020,8,2020,1/8/2020,Reino Unido,15477,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2020M09,1/9/2020,9,2020,1/9/2020,Reino Unido,3209,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2020M09,1/9/2020,9,2020,1/9/2020,Reino Unido,11437,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+UK_EGLL,2020M09,1/9/2020,9,2020,1/9/2020,Reino Unido,14690,"Aeropuerto Internacional de Londres Heathrow
+Aeropuerto de Londres-Heathrow"
+NL_EHAM,2019M01,1/1/2019,1,2019,1/1/2019,Paises Bajos,37938,Aeropuerto Internacional de �msterdam-Schiphol 
+NL_EHAM,2019M02,1/2/2019,2,2019,1/2/2019,Paises Bajos,35995,Aeropuerto Internacional de �msterdam-Schiphol 
+NL_EHAM,2019M03,1/3/2019,3,2019,1/3/2019,Paises Bajos,40659,Aeropuerto Internacional de �msterdam-Schiphol 
+NL_EHAM,2019M04,1/4/2019,4,2019,1/4/2019,Paises Bajos,42890,Aeropuerto Internacional de �msterdam-Schiphol 
+NL_EHAM,2019M05,1/5/2019,5,2019,1/5/2019,Paises Bajos,45944,Aeropuerto Internacional de �msterdam-Schiphol 
+NL_EHAM,2019M06,1/6/2019,6,2019,1/6/2019,Paises Bajos,44644,Aeropuerto Internacional de �msterdam-Schiphol 
+NL_EHAM,2019M07,1/7/2019,7,2019,1/7/2019,Paises Bajos,45874,Aeropuerto Internacional de �msterdam-Schiphol 
+NL_EHAM,2019M08,1/8/2019,8,2019,1/8/2019,Paises Bajos,46050,Aeropuerto Internacional de �msterdam-Schiphol 
+NL_EHAM,2019M09,1/9/2019,9,2019,1/9/2019,Paises Bajos,45248,Aeropuerto Internacional de �msterdam-Schiphol 
+NL_EHAM,2020M01,1/1/2020,1,2020,1/1/2020,Paises Bajos,38324,Aeropuerto Internacional de �msterdam-Schiphol 
+NL_EHAM,2020M02,1/2/2020,2,2020,1/2/2020,Paises Bajos,35830,Aeropuerto Internacional de �msterdam-Schiphol 
+NL_EHAM,2020M03,1/3/2020,3,2020,1/3/2020,Paises Bajos,25792,Aeropuerto Internacional de �msterdam-Schiphol 
+NL_EHAM,2020M04,1/4/2020,4,2020,1/4/2020,Paises Bajos,4543,Aeropuerto Internacional de �msterdam-Schiphol 
+NL_EHAM,2020M05,1/5/2020,5,2020,1/5/2020,Paises Bajos,6280,Aeropuerto Internacional de �msterdam-Schiphol 
+NL_EHAM,2020M06,1/6/2020,6,2020,1/6/2020,Paises Bajos,8763,Aeropuerto Internacional de �msterdam-Schiphol 
+NL_EHAM,2020M07,1/7/2020,7,2020,1/7/2020,Paises Bajos,16744,Aeropuerto Internacional de �msterdam-Schiphol 
+NL_EHAM,2020M08,1/8/2020,8,2020,1/8/2020,Paises Bajos,24054,Aeropuerto Internacional de �msterdam-Schiphol 
+NL_EHAM,2020M09,1/9/2020,9,2020,1/9/2020,Paises Bajos,22988,Aeropuerto Internacional de �msterdam-Schiphol 
+ES_LEBL,2019M01,1/1/2019,1,2019,1/1/2019,Espa�a,90,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2019M01,1/1/2019,1,2019,1/1/2019,Espa�a,3306,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2019M01,1/1/2019,1,2019,1/1/2019,Espa�a,20575,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2019M01,1/1/2019,1,2019,1/1/2019,Espa�a,23971,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2019M02,1/2/2019,2,2019,1/2/2019,Espa�a,150,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2019M02,1/2/2019,2,2019,1/2/2019,Espa�a,3168,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2019M02,1/2/2019,2,2019,1/2/2019,Espa�a,19359,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2019M02,1/2/2019,2,2019,1/2/2019,Espa�a,22677,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2019M03,1/3/2019,3,2019,1/3/2019,Espa�a,145,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2019M03,1/3/2019,3,2019,1/3/2019,Espa�a,3581,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2019M03,1/3/2019,3,2019,1/3/2019,Espa�a,22209,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2019M03,1/3/2019,3,2019,1/3/2019,Espa�a,25935,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2019M04,1/4/2019,4,2019,1/4/2019,Espa�a,112,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2019M04,1/4/2019,4,2019,1/4/2019,Espa�a,3923,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2019M04,1/4/2019,4,2019,1/4/2019,Espa�a,25704,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2019M04,1/4/2019,4,2019,1/4/2019,Espa�a,29739,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2019M05,1/5/2019,5,2019,1/5/2019,Espa�a,199,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2019M05,1/5/2019,5,2019,1/5/2019,Espa�a,4410,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2019M05,1/5/2019,5,2019,1/5/2019,Espa�a,26493,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2019M05,1/5/2019,5,2019,1/5/2019,Espa�a,31102,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2019M06,1/6/2019,6,2019,1/6/2019,Espa�a,232,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2019M06,1/6/2019,6,2019,1/6/2019,Espa�a,5077,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2019M06,1/6/2019,6,2019,1/6/2019,Espa�a,26711,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2019M06,1/6/2019,6,2019,1/6/2019,Espa�a,32020,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2019M07,1/7/2019,7,2019,1/7/2019,Espa�a,279,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2019M07,1/7/2019,7,2019,1/7/2019,Espa�a,5307,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2019M07,1/7/2019,7,2019,1/7/2019,Espa�a,27605,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2019M07,1/7/2019,7,2019,1/7/2019,Espa�a,33191,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2019M08,1/8/2019,8,2019,1/8/2019,Espa�a,174,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2019M08,1/8/2019,8,2019,1/8/2019,Espa�a,5329,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2019M08,1/8/2019,8,2019,1/8/2019,Espa�a,27142,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2019M08,1/8/2019,8,2019,1/8/2019,Espa�a,32645,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2019M09,1/9/2019,9,2019,1/9/2019,Espa�a,196,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2019M09,1/9/2019,9,2019,1/9/2019,Espa�a,5074,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2019M09,1/9/2019,9,2019,1/9/2019,Espa�a,26821,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2019M09,1/9/2019,9,2019,1/9/2019,Espa�a,32091,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M01,1/1/2020,1,2020,1/1/2020,Espa�a,76,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M01,1/1/2020,1,2020,1/1/2020,Espa�a,3564,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M01,1/1/2020,1,2020,1/1/2020,Espa�a,19762,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M01,1/1/2020,1,2020,1/1/2020,Espa�a,23402,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M02,1/2/2020,2,2020,1/2/2020,Espa�a,98,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M02,1/2/2020,2,2020,1/2/2020,Espa�a,3450,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M02,1/2/2020,2,2020,1/2/2020,Espa�a,19406,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M02,1/2/2020,2,2020,1/2/2020,Espa�a,22954,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M03,1/3/2020,3,2020,1/3/2020,Espa�a,48,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M03,1/3/2020,3,2020,1/3/2020,Espa�a,1999,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M03,1/3/2020,3,2020,1/3/2020,Espa�a,11765,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M03,1/3/2020,3,2020,1/3/2020,Espa�a,13812,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M04,1/4/2020,4,2020,1/4/2020,Espa�a,10,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M04,1/4/2020,4,2020,1/4/2020,Espa�a,263,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M04,1/4/2020,4,2020,1/4/2020,Espa�a,1215,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M04,1/4/2020,4,2020,1/4/2020,Espa�a,1488,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M05,1/5/2020,5,2020,1/5/2020,Espa�a,34,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M05,1/5/2020,5,2020,1/5/2020,Espa�a,372,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M05,1/5/2020,5,2020,1/5/2020,Espa�a,1357,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M05,1/5/2020,5,2020,1/5/2020,Espa�a,1763,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M06,1/6/2020,6,2020,1/6/2020,Espa�a,39,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M06,1/6/2020,6,2020,1/6/2020,Espa�a,465,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M06,1/6/2020,6,2020,1/6/2020,Espa�a,2223,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M06,1/6/2020,6,2020,1/6/2020,Espa�a,2727,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M07,1/7/2020,7,2020,1/7/2020,Espa�a,194,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M07,1/7/2020,7,2020,1/7/2020,Espa�a,1003,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M07,1/7/2020,7,2020,1/7/2020,Espa�a,9183,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M07,1/7/2020,7,2020,1/7/2020,Espa�a,10380,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M08,1/8/2020,8,2020,1/8/2020,Espa�a,82,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M08,1/8/2020,8,2020,1/8/2020,Espa�a,869,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M08,1/8/2020,8,2020,1/8/2020,Espa�a,13091,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M08,1/8/2020,8,2020,1/8/2020,Espa�a,14042,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M09,1/9/2020,9,2020,1/9/2020,Espa�a,150,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M09,1/9/2020,9,2020,1/9/2020,Espa�a,755,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M09,1/9/2020,9,2020,1/9/2020,Espa�a,9659,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEBL,2020M09,1/9/2020,9,2020,1/9/2020,Espa�a,10564,"Aeropuerto Josep Tarradellas Barcelona-El Prat? 
+Aeropuerto Josep Tarradellas Barcelona-El Prat"
+ES_LEMD,2019M01,1/1/2019,1,2019,1/1/2019,Espa�a,242,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2019M01,1/1/2019,1,2019,1/1/2019,Espa�a,7507,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2019M01,1/1/2019,1,2019,1/1/2019,Espa�a,25156,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2019M01,1/1/2019,1,2019,1/1/2019,Espa�a,32905,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2019M02,1/2/2019,2,2019,1/2/2019,Espa�a,255,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2019M02,1/2/2019,2,2019,1/2/2019,Espa�a,6738,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2019M02,1/2/2019,2,2019,1/2/2019,Espa�a,23194,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2019M02,1/2/2019,2,2019,1/2/2019,Espa�a,30187,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2019M03,1/3/2019,3,2019,1/3/2019,Espa�a,294,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2019M03,1/3/2019,3,2019,1/3/2019,Espa�a,7598,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2019M03,1/3/2019,3,2019,1/3/2019,Espa�a,26363,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2019M03,1/3/2019,3,2019,1/3/2019,Espa�a,34255,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2019M04,1/4/2019,4,2019,1/4/2019,Espa�a,206,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2019M04,1/4/2019,4,2019,1/4/2019,Espa�a,7990,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2019M04,1/4/2019,4,2019,1/4/2019,Espa�a,26631,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2019M04,1/4/2019,4,2019,1/4/2019,Espa�a,34827,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2019M05,1/5/2019,5,2019,1/5/2019,Espa�a,460,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2019M05,1/5/2019,5,2019,1/5/2019,Espa�a,8507,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2019M05,1/5/2019,5,2019,1/5/2019,Espa�a,28248,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2019M05,1/5/2019,5,2019,1/5/2019,Espa�a,37215,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2019M06,1/6/2019,6,2019,1/6/2019,Espa�a,575,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2019M06,1/6/2019,6,2019,1/6/2019,Espa�a,8843,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2019M06,1/6/2019,6,2019,1/6/2019,Espa�a,28544,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2019M06,1/6/2019,6,2019,1/6/2019,Espa�a,37962,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2019M07,1/7/2019,7,2019,1/7/2019,Espa�a,317,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2019M07,1/7/2019,7,2019,1/7/2019,Espa�a,9312,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2019M07,1/7/2019,7,2019,1/7/2019,Espa�a,29340,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2019M07,1/7/2019,7,2019,1/7/2019,Espa�a,38969,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2019M08,1/8/2019,8,2019,1/8/2019,Espa�a,165,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2019M08,1/8/2019,8,2019,1/8/2019,Espa�a,8843,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2019M08,1/8/2019,8,2019,1/8/2019,Espa�a,28131,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2019M08,1/8/2019,8,2019,1/8/2019,Espa�a,37139,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2019M09,1/9/2019,9,2019,1/9/2019,Espa�a,243,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2019M09,1/9/2019,9,2019,1/9/2019,Espa�a,8968,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2019M09,1/9/2019,9,2019,1/9/2019,Espa�a,28081,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2019M09,1/9/2019,9,2019,1/9/2019,Espa�a,37292,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M01,1/1/2020,1,2020,1/1/2020,Espa�a,244,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M01,1/1/2020,1,2020,1/1/2020,Espa�a,7552,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M01,1/1/2020,1,2020,1/1/2020,Espa�a,25496,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M01,1/1/2020,1,2020,1/1/2020,Espa�a,33292,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M02,1/2/2020,2,2020,1/2/2020,Espa�a,207,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M02,1/2/2020,2,2020,1/2/2020,Espa�a,7094,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M02,1/2/2020,2,2020,1/2/2020,Espa�a,24174,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M02,1/2/2020,2,2020,1/2/2020,Espa�a,31475,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M03,1/3/2020,3,2020,1/3/2020,Espa�a,120,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M03,1/3/2020,3,2020,1/3/2020,Espa�a,4479,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M03,1/3/2020,3,2020,1/3/2020,Espa�a,15233,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M03,1/3/2020,3,2020,1/3/2020,Espa�a,19832,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M04,1/4/2020,4,2020,1/4/2020,Espa�a,27,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M04,1/4/2020,4,2020,1/4/2020,Espa�a,530,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M04,1/4/2020,4,2020,1/4/2020,Espa�a,1954,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M04,1/4/2020,4,2020,1/4/2020,Espa�a,2511,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M05,1/5/2020,5,2020,1/5/2020,Espa�a,59,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M05,1/5/2020,5,2020,1/5/2020,Espa�a,959,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M05,1/5/2020,5,2020,1/5/2020,Espa�a,1973,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M05,1/5/2020,5,2020,1/5/2020,Espa�a,2991,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M06,1/6/2020,6,2020,1/6/2020,Espa�a,102,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M06,1/6/2020,6,2020,1/6/2020,Espa�a,796,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M06,1/6/2020,6,2020,1/6/2020,Espa�a,2849,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M06,1/6/2020,6,2020,1/6/2020,Espa�a,3747,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M07,1/7/2020,7,2020,1/7/2020,Espa�a,194,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M07,1/7/2020,7,2020,1/7/2020,Espa�a,1704,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M07,1/7/2020,7,2020,1/7/2020,Espa�a,8808,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M07,1/7/2020,7,2020,1/7/2020,Espa�a,10706,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M08,1/8/2020,8,2020,1/8/2020,Espa�a,346,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M08,1/8/2020,8,2020,1/8/2020,Espa�a,2302,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M08,1/8/2020,8,2020,1/8/2020,Espa�a,12756,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M08,1/8/2020,8,2020,1/8/2020,Espa�a,15404,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M09,1/9/2020,9,2020,1/9/2020,Espa�a,149,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M09,1/9/2020,9,2020,1/9/2020,Espa�a,2637,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M09,1/9/2020,9,2020,1/9/2020,Espa�a,9620,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+ES_LEMD,2020M09,1/9/2020,9,2020,1/9/2020,Espa�a,12406,"Aeropuerto Adolfo Su�rez Madrid-Barajas
+Aeropuerto Adolfo Su�rez Madrid-Barajas"
+FR_LFPG,2019M01,1/1/2019,1,2019,1/1/2019,Francia,38518,"Aeropuerto Internacional de Paris-Charles de Gaulle
+Aeropuerto de Par�s-Charles de Gaulle"
+FR_LFPG,2019M02,1/2/2019,2,2019,1/2/2019,Francia,35711,"Aeropuerto Internacional de Paris-Charles de Gaulle
+Aeropuerto de Par�s-Charles de Gaulle"
+FR_LFPG,2019M03,1/3/2019,3,2019,1/3/2019,Francia,40627,"Aeropuerto Internacional de Paris-Charles de Gaulle
+Aeropuerto de Par�s-Charles de Gaulle"
+FR_LFPG,2019M04,1/4/2019,4,2019,1/4/2019,Francia,43225,"Aeropuerto Internacional de Paris-Charles de Gaulle
+Aeropuerto de Par�s-Charles de Gaulle"
+FR_LFPG,2019M05,1/5/2019,5,2019,1/5/2019,Francia,44408,"Aeropuerto Internacional de Paris-Charles de Gaulle
+Aeropuerto de Par�s-Charles de Gaulle"
+FR_LFPG,2019M06,1/6/2019,6,2019,1/6/2019,Francia,44799,"Aeropuerto Internacional de Paris-Charles de Gaulle
+Aeropuerto de Par�s-Charles de Gaulle"
+FR_LFPG,2019M07,1/7/2019,7,2019,1/7/2019,Francia,47508,"Aeropuerto Internacional de Paris-Charles de Gaulle
+Aeropuerto de Par�s-Charles de Gaulle"
+FR_LFPG,2019M08,1/8/2019,8,2019,1/8/2019,Francia,47756,"Aeropuerto Internacional de Paris-Charles de Gaulle
+Aeropuerto de Par�s-Charles de Gaulle"
+FR_LFPG,2019M09,1/9/2019,9,2019,1/9/2019,Francia,45616,"Aeropuerto Internacional de Paris-Charles de Gaulle
+Aeropuerto de Par�s-Charles de Gaulle"
+FR_LFPG,2020M01,1/1/2020,1,2020,1/1/2020,Francia,37766,"Aeropuerto Internacional de Paris-Charles de Gaulle
+Aeropuerto de Par�s-Charles de Gaulle"
+FR_LFPG,2020M02,1/2/2020,2,2020,1/2/2020,Francia,35732,"Aeropuerto Internacional de Paris-Charles de Gaulle
+Aeropuerto de Par�s-Charles de Gaulle"
+FR_LFPG,2020M03,1/3/2020,3,2020,1/3/2020,Francia,23664,"Aeropuerto Internacional de Paris-Charles de Gaulle
+Aeropuerto de Par�s-Charles de Gaulle"
+FR_LFPG,2020M04,1/4/2020,4,2020,1/4/2020,Francia,4228,"Aeropuerto Internacional de Paris-Charles de Gaulle
+Aeropuerto de Par�s-Charles de Gaulle"
+FR_LFPG,2020M05,1/5/2020,5,2020,1/5/2020,Francia,5874,"Aeropuerto Internacional de Paris-Charles de Gaulle
+Aeropuerto de Par�s-Charles de Gaulle"
+FR_LFPG,2020M06,1/6/2020,6,2020,1/6/2020,Francia,9794,"Aeropuerto Internacional de Paris-Charles de Gaulle
+Aeropuerto de Par�s-Charles de Gaulle"
+FR_LFPG,2020M07,1/7/2020,7,2020,1/7/2020,Francia,19082,"Aeropuerto Internacional de Paris-Charles de Gaulle
+Aeropuerto de Par�s-Charles de Gaulle"
+FR_LFPG,2020M08,1/8/2020,8,2020,1/8/2020,Francia,22934,"Aeropuerto Internacional de Paris-Charles de Gaulle
+Aeropuerto de Par�s-Charles de Gaulle"
+FR_LFPG,2020M09,1/9/2020,9,2020,1/9/2020,Francia,18797,"Aeropuerto Internacional de Paris-Charles de Gaulle
+Aeropuerto de Par�s-Charles de Gaulle"
+FR_LFPO,2019M01,1/1/2019,1,2019,1/1/2019,Francia,17601,A�roport de Paris-Orly
+FR_LFPO,2019M02,1/2/2019,2,2019,1/2/2019,Francia,15776,A�roport de Paris-Orly
+FR_LFPO,2019M03,1/3/2019,3,2019,1/3/2019,Francia,18586,A�roport de Paris-Orly
+FR_LFPO,2019M04,1/4/2019,4,2019,1/4/2019,Francia,20651,A�roport de Paris-Orly
+FR_LFPO,2019M05,1/5/2019,5,2019,1/5/2019,Francia,20358,A�roport de Paris-Orly
+FR_LFPO,2019M06,1/6/2019,6,2019,1/6/2019,Francia,20760,A�roport de Paris-Orly
+FR_LFPO,2019M07,1/7/2019,7,2019,1/7/2019,Francia,21273,A�roport de Paris-Orly
+FR_LFPO,2019M08,1/8/2019,8,2019,1/8/2019,Francia,19217,A�roport de Paris-Orly
+FR_LFPO,2019M09,1/9/2019,9,2019,1/9/2019,Francia,18972,A�roport de Paris-Orly
+FR_LFPO,2020M01,1/1/2020,1,2020,1/1/2020,Francia,16680,A�roport de Paris-Orly
+FR_LFPO,2020M02,1/2/2020,2,2020,1/2/2020,Francia,15677,A�roport de Paris-Orly
+FR_LFPO,2020M03,1/3/2020,3,2020,1/3/2020,Francia,9634,A�roport de Paris-Orly
+FR_LFPO,2020M04,1/4/2020,4,2020,1/4/2020,Francia,188,A�roport de Paris-Orly
+FR_LFPO,2020M05,1/5/2020,5,2020,1/5/2020,Francia,101,A�roport de Paris-Orly
+FR_LFPO,2020M06,1/6/2020,6,2020,1/6/2020,Francia,471,A�roport de Paris-Orly
+FR_LFPO,2020M07,1/7/2020,7,2020,1/7/2020,Francia,5289,A�roport de Paris-Orly
+FR_LFPO,2020M08,1/8/2020,8,2020,1/8/2020,Francia,8386,A�roport de Paris-Orly
+FR_LFPO,2020M09,1/9/2020,9,2020,1/9/2020,Francia,9301,A�roport de Paris-Orly
+IT_LIRF,2019M01,1/1/2019,1,2019,1/1/2019,Italia,23027,Aeropuerto de Roma-Fiumicino
+IT_LIRF,2019M02,1/2/2019,2,2019,1/2/2019,Italia,21506,Aeropuerto de Roma-Fiumicino
+IT_LIRF,2019M03,1/3/2019,3,2019,1/3/2019,Italia,23974,Aeropuerto de Roma-Fiumicino
+IT_LIRF,2019M04,1/4/2019,4,2019,1/4/2019,Italia,26423,Aeropuerto de Roma-Fiumicino
+IT_LIRF,2019M05,1/5/2019,5,2019,1/5/2019,Italia,27338,Aeropuerto de Roma-Fiumicino
+IT_LIRF,2019M06,1/6/2019,6,2019,1/6/2019,Italia,28545,Aeropuerto de Roma-Fiumicino
+IT_LIRF,2019M07,1/7/2019,7,2019,1/7/2019,Italia,30023,Aeropuerto de Roma-Fiumicino
+IT_LIRF,2019M08,1/8/2019,8,2019,1/8/2019,Italia,30107,Aeropuerto de Roma-Fiumicino
+IT_LIRF,2019M09,1/9/2019,9,2019,1/9/2019,Italia,28124,Aeropuerto de Roma-Fiumicino
+IT_LIRF,2020M01,1/1/2020,1,2020,1/1/2020,Italia,21331,Aeropuerto de Roma-Fiumicino
+IT_LIRF,2020M02,1/2/2020,2,2020,1/2/2020,Italia,19404,Aeropuerto de Roma-Fiumicino
+IT_LIRF,2020M03,1/3/2020,3,2020,1/3/2020,Italia,8624,Aeropuerto de Roma-Fiumicino
+IT_LIRF,2020M04,1/4/2020,4,2020,1/4/2020,Italia,2409,Aeropuerto de Roma-Fiumicino
+IT_LIRF,2020M05,1/5/2020,5,2020,1/5/2020,Italia,2748,Aeropuerto de Roma-Fiumicino
+IT_LIRF,2020M06,1/6/2020,6,2020,1/6/2020,Italia,3565,Aeropuerto de Roma-Fiumicino

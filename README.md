@@ -2,11 +2,20 @@
 
 Informe estadístico del impacto del Covid-19 sobre la industria aérea europea, segmentado por año (2019 vs 2020) y por país
 
-El dataset infoVuelos_.csv disponible en este repositorio está basado en el reporte "Airport traffic data by reporting airport and airlines" (https://data.europa.eu/euodp/es/data/dataset/43C6uGqWp92dX7vlgNzJA) publicado por Eurostat, la oficina estadística de la Unión Europea 
+El dataset disponible en este repositorio consta con la información de los 3 primeros trimestes de 2019 y 2020, de los 10 aeropuertos con más tránsito áereo según reporte del INE, excluyendo a Alemania ya que el reporte sólo contiene los totales anuales no desglosados por mes.
 
-Dicho reporte consta con información del total de pasajeros transportados por desde 1997 hasta octubre 2010 inclusive, segmentados por aeropuerto de partida (campo “rep_airp”, codificado en el formato estipulado por la OACI). Información adicional en https://es.wikipedia.org/wiki/C%C3%B3digo_de_aeropuertos_de_OACI
+n ranking	OACI	Aeropuerto	País
+1	EGLL	Aeropuerto Internacional de Londres Heathrow	Reino Unido
+2	LFPG	Aeropuerto Internacional de Paris-Charles de Gaulle	Francia
+3	EHAM	Aeropuerto Internacional de Ámsterdam-Schiphol	Paises Bajos
+4	EDDF	Aeropuerto de Fráncfort del Meno	Alemania
+5	LEMD	Aeropuerto Adolfo Suárez Madrid-Barajas	España
+6	LEBL	Aeropuerto Josep Tarradellas Barcelona-El Prat​	España
+7	EDDM	Aeropuerto Internacional de Múnich	Alemania
+8	EGKK	Aeropuerto de Londres Gatwic	Reino Unido
+9	LIRF	Aeropuerto de Roma-Fiumicino	Italia
+10	LFPO	Aeropuerto de Paris-Orly	Francia
 
-En una exploración inicial de la fuente de datos se observa que por el formato de la tabla (aeropuerto en el eje y, períodos en el x) hay una gran cantidad de registros en cero, por lo cual para evitar errores en los cálculos de las medidas se realizó una transformación del dataset, tomando únicamente las columnas con “totalVuelos” >=1.  
-A fin de poder posterieromente analizar los datos con RStudio, se efectúa una nueva transformación y limpieza del dataset, transponiendo la base para que cada registro (fila) contenga la información [“rep_airp”, “totalVuelos”, “periodo”] y extrayéndose del mismo únicamente la información correspondiente a los tres primeros trimestres de 2019 y 2020. Por último, a partir del código del aeropuerto, se agregó una campo con la descripción del país correspondiente.
+El dataset es un extracto del reporte "Airport traffic data by reporting airport and airlines" (https://data.europa.eu/euodp/es/data/dataset/43C6uGqWp92dX7vlgNzJA) publicado por Eurostat, la oficina estadística de la Unión Europea. Dicho reporte consta con información del total de pasajeros transportados por desde 1997 hasta octubre 2010 inclusive, segmentados por aeropuerto de partida (campo “rep_airp”, codificado en el formato estipulado por la OACI). Información adicional en https://es.wikipedia.org/wiki/C%C3%B3digo_de_aeropuertos_de_OACI
 
-Se realiza una nueva exploración sobre el dataset limpio y se detectan seis países que no presentaban ningún dato en 2020: Bélgica, Irlanda, Polonia, Portugal, Serbia y Turquía, por lo cual serán excluídos del análisis en cuestión
+
